@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = clementazalbert04@gmail.com
+	name = Clement Azalbert
